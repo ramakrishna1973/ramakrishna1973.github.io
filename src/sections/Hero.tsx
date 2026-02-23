@@ -225,16 +225,7 @@ const Hero = () => {
         </div>
       </div>
 
-      {/* Scroll indicator */}
-      <div 
-        className={`absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 transition-all duration-1000 ${isLoaded ? 'opacity-100' : 'opacity-0'}`}
-        style={{ transitionDelay: '1.6s' }}
-      >
-        <span className="text-xs text-[#afafaf] uppercase tracking-widest">Scroll</span>
-        <div className="w-6 h-10 border-2 border-white/20 rounded-full flex justify-center pt-2">
-          <div className="w-1 h-2 bg-[#1b45f4] rounded-full animate-bounce" />
-        </div>
-      </div>
+
     </section>
   );
 };
