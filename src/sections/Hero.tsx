@@ -196,7 +196,7 @@ const Hero = () => {
             {/* Image container */}
             <div className="relative w-72 h-72 sm:w-80 sm:h-80 md:w-96 md:h-96 lg:w-[450px] lg:h-[450px] rounded-3xl overflow-hidden border border-white/10">
               <img 
-                src="/hero-portrait.jpg" 
+                src={`${import.meta.env.BASE_URL}hero-portrait.jpg`}
                 alt="Maram Reddy"
                 className="w-full h-full object-cover"
               />
