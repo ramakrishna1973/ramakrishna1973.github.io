@@ -156,7 +156,7 @@ const Hero = () => {
             style={{ transitionDelay: '1.4s' }}
           >
             <a 
-              href="https://github.com" 
+              href="https://github.com/ramakrishna1973" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full border border-white/20 flex items-center justify-center hover:border-[#1b45f4] hover:bg-[#1b45f4]/20 transition-all duration-300 group"
@@ -164,7 +164,7 @@ const Hero = () => {
               <Github className="w-5 h-5 text-[#afafaf] group-hover:text-white transition-colors" />
             </a>
             <a 
-              href="https://linkedin.com" 
+              href="https://www.linkedin.com/in/maram-ramakrishna-reddy-6752a8269/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full border border-white/20 flex items-center justify-center hover:border-[#1b45f4] hover:bg-[#1b45f4]/20 transition-all duration-300 group"
@@ -211,7 +211,7 @@ const Hero = () => {
               style={{ animationDelay: '1s' }}
             >
               <p className="text-sm text-[#afafaf]">Experience</p>
-              <p className="text-2xl font-bold text-white">1 year</p>
+              <p className="text-2xl font-bold text-white">1+ year</p>
             </div>
 
             <div 
