@@ -182,7 +182,7 @@ const Projects = () => {
           style={{ transitionDelay: '0.8s' }}
         >
           <a 
-            href="https://github.com"
+            href="https://github.com/ramakrishna1973"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-8 py-3 border border-white/20 rounded-lg hover:border-[#1b45f4] hover:bg-[#1b45f4]/10 transition-all duration-300 group"
