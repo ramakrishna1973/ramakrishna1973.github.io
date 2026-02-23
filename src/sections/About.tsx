@@ -68,7 +68,7 @@ const About = () => {
               {/* Image */}
               <div className="relative aspect-square rounded-full overflow-hidden border-2 border-white/10 group">
                 <img 
-                  src="/profile.jpg" 
+                  src={`${import.meta.env.BASE_URL}profile.jpg`}
                   alt="Maram Reddy Profile"
                   className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
                 />
