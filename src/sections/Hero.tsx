@@ -43,7 +43,7 @@ const Hero = () => {
   return (
     <section 
       ref={heroRef}
-      className="relative min-h-screen w-full flex items-center justify-center overflow-hidden pt-24 lg:pt-32"
+      className="relative min-h-screen w-full flex items-center justify-center overflow-hidden pt-14 lg:pt-18"
       style={{ perspective: '1000px' }}
     >
       {/* Animated Gradient Background */}
